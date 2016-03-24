@@ -308,7 +308,6 @@ var timezones = {
     "Quebec",
     "East of the 63°W longitude",
     "Chile",
-    "Denmark",
     "Greenland",
     "North-western area including Qaanaaq (Thule) and Pituffik",
     "Dominica",
@@ -357,7 +356,6 @@ var timezones = {
     " Mato Grosso",
     " Mato Grosso do Sul",
     "Rondônia and Roraima; and offshore islands",
-    "Denmark",
     "Greenland",
     "Except areas around Qaanaaq",
     " Danmarkshavn and Ittoqqortoormiit",
@@ -377,7 +375,6 @@ var timezones = {
   ],
   "−01.00": [
     "Cape Verde",
-    "Denmark",
     "Greenland",
     "Ittoqqortoormiit and surrounding area",
     "Portugal",
@@ -386,7 +383,6 @@ var timezones = {
   "±00.00": [
     "Burkina Faso",
     "Côte d'Ivoire",
-    "Denmark",
     "Faroe Islands",
     "Greenland",
     "Danmarkshavn and surrounding area",
